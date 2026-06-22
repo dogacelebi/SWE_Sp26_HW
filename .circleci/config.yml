@@ -30,4 +30,4 @@ workflows:
   version: 2
   flask_pipeline:
     jobs:
-      - build_and_tests
+      - build_and_test
